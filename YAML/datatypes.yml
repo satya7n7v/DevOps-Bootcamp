@@ -3,7 +3,7 @@ myself: Kunal Kushwaha
 fruit: "apple"
 job: 'swe'
 
-bio: | 
+bio: | # Write multiple lines
  hey my name is kunal kushwaha.
  i am a very nice dude.
 
